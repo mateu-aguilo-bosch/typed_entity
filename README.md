@@ -118,7 +118,7 @@ function custom_module_typed_entity_registry_info() {
     'entity_type' => 'user',
     'class' => '\\Drupal\\custom_module\\Foo\\Bar\\User',
   );
-  $items['file'] = array(
+  $items['image'] = array(
     'entity_type' => 'file',
     'bundle' => 'image',
     'class' => '\\Drupal\\custom_module\\File\\Image',
