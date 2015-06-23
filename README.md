@@ -111,7 +111,7 @@ If you don't like the naming convention or you prefer to use something else, you
 
 ```php
 /**
- * Implements hook_module_typed_entity_registry_info().
+ * Implements hook_typed_entity_registry_info().
  */
 function custom_module_typed_entity_registry_info() {
   $items['user'] = array(
